@@ -12,9 +12,9 @@ let expansion = 0;
 let snackTime = false;
 
 const bot = mineflayer.createBot({
-	username: "FarmMachine",
-	host: "localhost",
-	port: 12345,
+	username: "Tsunade",
+	host: "Alone132405.aternos.me",
+	port: 29986,
 	//viewDistance: "tiny",
 });
 
